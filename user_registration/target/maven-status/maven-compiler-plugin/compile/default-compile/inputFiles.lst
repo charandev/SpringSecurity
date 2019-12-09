@@ -1,0 +1,12 @@
+D:\OneGoodDeedProject\user_registration\src\main\java\com\mindtree\repository\UserRepository.java
+D:\OneGoodDeedProject\user_registration\src\main\java\com\mindtree\configuration\WebMvcConfig.java
+D:\OneGoodDeedProject\user_registration\src\main\java\com\mindtree\controller\LoginController.java
+D:\OneGoodDeedProject\user_registration\src\main\java\com\mindtree\service\impl\UserServiceImpl.java
+D:\OneGoodDeedProject\user_registration\src\main\java\com\mindtree\UserRegistrationApplication.java
+D:\OneGoodDeedProject\user_registration\src\main\java\com\mindtree\repository\RoleRepository.java
+D:\OneGoodDeedProject\user_registration\src\main\java\com\mindtree\configuration\SecurityConfiguration.java
+D:\OneGoodDeedProject\user_registration\src\main\java\com\mindtree\service\RoleService.java
+D:\OneGoodDeedProject\user_registration\src\main\java\com\mindtree\entity\User.java
+D:\OneGoodDeedProject\user_registration\src\main\java\com\mindtree\service\impl\RoleServiceImpl.java
+D:\OneGoodDeedProject\user_registration\src\main\java\com\mindtree\entity\Role.java
+D:\OneGoodDeedProject\user_registration\src\main\java\com\mindtree\service\UserService.java
